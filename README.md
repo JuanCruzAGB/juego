@@ -1,18 +1,15 @@
 # Fallout Simulator / NOMBRE EN PROGRESO
 
 ## Idea:
-
 Juego de texto, en el que el Usuario pueda crear Personajes, y tengan que sobrevivir a Eventos random a lo largo de la partida, estos los van a ir matando uno a uno hasta que solo quede un superviviente.
 
 ### Personajes
-
 Establecidos por el Usuario y almacenados en el localstorage para un acceso mas rapido en futuras partidas.
 Rasgos:
     +   Id: El identificador de acceso rapido del Personaje por el programa.
     +   Nombre: El identificador para lectura del Personaje por el Usuario.
 
 ### Eventos
-
 Establecidos por defecto, estos tendran efecto en los Personajes participantes. Pueden tener ciertos requisitos para que se lleven a cabo.
 Rasgos:
     +   Id: El identificador de acceso rapido del Evento por el programa.
@@ -25,7 +22,6 @@ Rasgos:
     +   Repeticion: Un booleano que determina si el Evento puede o no repetirse a lo largo de la partida.
 
 ### Dias
-
 Establecidos por defecto, estos serviran como el contador de rondas que lleva la partida.
 Rasgos:
     +   Id: El identificador de acceso rapido del Dia por el programa.
