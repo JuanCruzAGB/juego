@@ -6,14 +6,14 @@ Juego de texto, en el que el Usuario pueda crear Personajes, y tengan que sobrev
 ### Personajes
 Establecidos por el Usuario y almacenados en el localstorage para un acceso más rápido en futuras partidas.
 
-Rasgos:
+**Rasgos:**
 - [ ] Id: El identificador de acceso rápido del Personaje por el programa.
 - [ ] Nombre: El identificador para lectura del Personaje por el Usuario.
 
 ### Eventos
 Establecidos por defecto, estos tendrán efecto en los Personajes participantes. Pueden tener ciertos requisitos para que se lleven a cabo.
 
-Rasgos:
+**Rasgos:**
 - [ ] Id: El identificador de acceso rápido del Evento por el programa.
 - [ ] Texto La descripción de lo que provoca el Evento. El texto tendrá dentro de su contenido ` {id_usuario} ` que representara el Personaje participe dentro del Evento en caso de ser necesario.
 - [ ] Cantidad de Usuario Afectados: Número que determina cuantos Personajes participan en el Evento.
@@ -26,6 +26,6 @@ Rasgos:
 ### Días
 Establecidos por defecto, estos servirán como el contador de rondas que lleva la partida.
 
-Rasgos:
+**Rasgos:**
 - [ ] Id: El identificador de acceso rápido del Día por el programa.
 - [ ] Numero: El identificador para lectura del Día por el Usuario.
