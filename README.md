@@ -9,7 +9,7 @@ Creadas al momento en el que el Usuario da en [JUGAR], va a guardar todos los el
 **Rasgos:**
 - [ ] **Personajes vivos:** Todos los Personajes que están vivos actualmente.
 - [ ] **Personajes muertos:** Todos los Personajes que están muertos actualmente.
-- [ ] **Eventos:** Todos los Eventos llevados a cabo en el momento.
+- [ ] **Eventos:** Todos los Eventos llevados actualmente.
 - [ ] **Días:** La ronda actual de la partida.
 
 ### Personajes
@@ -24,7 +24,7 @@ Establecidos por defecto, estos tendrán efecto en los Personajes participantes.
 
 **Rasgos:**
 - [ ] **Id:** El identificador de acceso rápido del Evento por el programa.
-- [ ] **Texto:** La descripción de lo que provoca el Evento. El texto tendrá dentro de su contenido ` {id_usuario} ` que representara el Personaje participe dentro del Evento en caso de ser necesario.
+- [ ] **Texto:** La descripción de lo que provoca el Evento. El texto tendrá dentro de su contenido ` {nombre} ` que representara el Personaje participe dentro del Evento en caso de ser necesario.
 - [ ] **Cantidad de Usuario Afectados:** Número que determina cuantos Personajes participan en el Evento.
 - [ ] **Efecto producido:** El efecto provocado por el Evento en los Personajes participantes.
 - [ ] **Evento padre:** En caso de existir, el Evento padre necesario para que se de el Evento.
