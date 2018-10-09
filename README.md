@@ -3,6 +3,15 @@
 ## Idea:
 Juego de texto, en el que el Usuario pueda crear Personajes, y tengan que sobrevivir a Eventos random a lo largo de la partida, estos los van a ir matando uno a uno hasta que solo quede un superviviente.
 
+### Partidas
+Creadas al momento en el que el Usuario da en [JUGAR], va a guardar todos los elementos necesarios para poder jugar y que sean de acceso rápido.
+
+**Rasgos:**
+- [ ] **Personajes vivos:** Todos los Personajes que están vivos actualmente.
+- [ ] **Personajes muertos:** Todos los Personajes que están muertos actualmente.
+- [ ] **Eventos:** Todos los Eventos llevados a cabo en el momento.
+- [ ] **Días:** La ronda actual de la partida.
+
 ### Personajes
 Establecidos por el Usuario y almacenados en el localstorage para un acceso más rápido en futuras partidas.
 
