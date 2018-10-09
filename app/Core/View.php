@@ -15,7 +15,7 @@
          * @param array $data Los datos a imprimir.
          * @param string $vista La vista a imprimir.
         **/
-        public static function render($sitio, $data = [], $vista = NULL){
+        public static function render($vista, $sitio, $data = []){
             // Revisamos si la renderizacion debe ser para app o para web.
             if($sitio == 'app'){
                 // Cambiamos el header para poder imrpimir JSON.

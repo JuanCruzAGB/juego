@@ -1,0 +1,1 @@
+<p>© Copyright <a href="https://www.youtube.com/channel/UC1N3UJ7SWX1F_P6OFPrHlBA?view_as=subscriber" onclick="window.open(this.href,'_blank'); return false;">Archimak</a> |</p>
