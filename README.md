@@ -35,21 +35,21 @@ Establecidos por defecto, estos tendrán efecto en los Personajes participantes.
 
 Algunos ejemplos son:
 
-* {nombre}: Fue a pescar con {nombre} al lago.
-  * {nombre}: Como se cansó de escuchar las anécdotas horribles de pescador de {nombre} le clavo la caña en el ojo.
-* {nombre}: Encontró una pequeña cabaña en el bosque y decidió pasar la noche en ella.
-  * {nombre}: Dentro encontró un bunker secreto debajo de la alfombra. Allí había armas, comida y bebida para un año.
-    * {nombre}: Jugando a ser militar, sin querer activo una granada y no le dio tiempo a salir, murió.
-* {nombre}: Se acordó de que no había comprado la cartulina.
-* {nombre}: Convenció a {nombre} de jugar al póker. Ambos apostaron que el que perdía se tiraba al lago desnudo.
-  * {nombre}: Perdió, se lanzó al lago, nunca aprendió a nadar, se ahogó.
-* {nombre}: Bailo delante de la fogata feliz.
-* {nombre}: Se quedó sentado todo el día.
-* {nombre}: Pensó en cómo sería la vida si su crush le hubiera prestado atención.
-* {nombre}: Confundió un cactus con {nombre} y lo abrazo, auch.
-* {nombre}: Junto a {nombre} y {nombre}, decidió salir a caminar bajo las estrellas.
-* {nombre}: Junto a {nombre}, {nombre} y {nombre}, se sentaron a disfrutar el paisaje.
-  * {nombre}: Con {nombre}, {nombre} y {nombre} aburridos se pusieron a encontrarle formas a las nubes.
-    * {nombre}, {nombre}, {nombre} y {nombre} confundidos de si la nube que vieron era una linda ovejita o una hormiga rabiosa, empezaron a pelear.
-* {nombre}: Hizo equipo con {nombre} y acabaron con la vida de {nombre} y {nombre}.
-* {nombre}: No hizo nada hoy el vago.
+* ` {nombre} `: Fue a pescar con ` {nombre} ` al lago.
+  * ` {nombre} `: Como se cansó de escuchar las anécdotas horribles de pescador de ` {nombre} ` le clavo la caña en el ojo.
+* ` {nombre} `: Encontró una pequeña cabaña en el bosque y decidió pasar la noche en ella.
+  * ` {nombre} `: Dentro encontró un bunker secreto debajo de la alfombra. Allí había armas, comida y bebida para un año.
+    * ` {nombre} `: Jugando a ser militar, sin querer activo una granada y no le dio tiempo a salir, murió.
+* ` {nombre} `: Se acordó de que no había comprado la cartulina.
+* ` {nombre} `: Convenció a ` {nombre} ` de jugar al póker. Ambos apostaron que el que perdía se tiraba al lago desnudo.
+  * ` {nombre} `: Perdió, se lanzó al lago, nunca aprendió a nadar, se ahogó.
+* ` {nombre} `: Bailo delante de la fogata feliz.
+* ` {nombre} `: Se quedó sentado todo el día.
+* ` {nombre} `: Pensó en cómo sería la vida si su crush le hubiera prestado atención.
+* ` {nombre} `: Confundió un cactus con ` {nombre} ` y lo abrazo, auch.
+* ` {nombre} `: Junto a ` {nombre} ` y ` {nombre} `, decidió salir a caminar bajo las estrellas.
+* ` {nombre} `: Junto a ` {nombre} `, ` {nombre} ` y ` {nombre} `, se sentaron a disfrutar el paisaje.
+  * ` {nombre} `: Con ` {nombre} `, ` {nombre} ` y ` {nombre} ` aburridos se pusieron a encontrarle formas a las nubes.
+    * ` {nombre} `, ` {nombre} `, ` {nombre} ` y ` {nombre} ` confundidos de si la nube que vieron era una linda ovejita o una hormiga rabiosa, empezaron a pelear.
+* ` {nombre} `: Hizo equipo con ` {nombre} ` y acabaron con la vida de ` {nombre} ` y ` {nombre} `.
+* ` {nombre} `: No hizo nada hoy el vago.
