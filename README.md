@@ -33,7 +33,7 @@ Establecidos por defecto, estos tendrán efecto en los Personajes participantes.
 - [ ] **Jugadores necesarios:** La cantidad de jugadores necesarios para que se dé el Evento.
 - [ ] **Repetición:** Un booleano que determina si el Evento puede o no repetirse a lo largo de la partida.
 
-Algunos ejemplos son:
+**Algunos ejemplos son:**
 
 * ` {nombre} `: Fue a pescar con ` {nombre} ` al lago.
   * ` {nombre} `: Como se cansó de escuchar las anécdotas horribles de pescador de ` {nombre} ` le clavo la caña en el ojo.
