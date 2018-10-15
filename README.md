@@ -36,7 +36,7 @@ Establecidos por defecto, estos tendrán efecto en los Personajes participantes.
 **Algunos ejemplos son:**
 
 * ` {nombre} `: Fue a pescar con ` {nombre} ` al lago.
-  * ` {nombre} `: Como se cansó de escuchar las anécdotas horribles de pescador de ` {nombre} ` le clavo la caña en el ojo.
+  * ` {nombre} `: Como se cansó de escuchar las anécdotas estúpidas de pescador de ` {nombre} ` le clavo la caña en el ojo.
 * ` {nombre} `: Encontró una pequeña cabaña en el bosque y decidió pasar la noche en ella.
   * ` {nombre} `: Dentro encontró un bunker secreto debajo de la alfombra. Allí había armas, comida y bebida para un año.
     * ` {nombre} `: Jugando a ser militar, sin querer activo una granada y no le dio tiempo a salir, murió.
@@ -53,3 +53,4 @@ Establecidos por defecto, estos tendrán efecto en los Personajes participantes.
     * ` {nombre} `, ` {nombre} `, ` {nombre} ` y ` {nombre} ` confundidos de si la nube que vieron era una linda ovejita o una hormiga rabiosa, empezaron a pelear.
 * ` {nombre} `: Hizo equipo con ` {nombre} ` y acabaron con la vida de ` {nombre} ` y ` {nombre} `.
 * ` {nombre} `: No hizo nada hoy el vago.
+* ` {nombre} `: Fue a comprar al chino para desayunar con ` {nombre} ` y al no tener monedas para darle al chino por el cambio, el chino se enoja y saca una motosierra debajo de la caja y le corta la cabeza mientras se caga de risa.
